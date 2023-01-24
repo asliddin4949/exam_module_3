@@ -111,12 +111,12 @@ public class QRCodeBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "t.me/netcore4949_bot";
+        return "";
     }
 
     @Override
     public String getBotToken() {
-        return "5720219054:AAFUYRE4Ou1Uq7D5TtQGmIbhKLjuPeFZS3E";
+        return "";
     }
 
 
